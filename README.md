@@ -1,5 +1,7 @@
 # Radar Distance Detector
 
+<img src="./SnapshotsFile/Processor%20Software%20Output%201.png" alt="Project Image" title="Project Image" width="500">
+
 The "Radar Distance Detector" is a compact system that uses ultrasonic technology to measure and display distances accurately. The project is implemented using Assembly and Embedded C, ensuring precise control and optimization for the hardware components. At its core, the system integrates an ultrasonic sensor to emit sound waves and measure the time taken for their reflection, calculating the distance to nearby objects. Designed for embedded applications, it highlights efficient programming and hardware interfacing, making it suitable for real-time systems requiring reliable distance measurement.product.
 
 ### Technologies Used
